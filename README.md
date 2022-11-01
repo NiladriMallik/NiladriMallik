@@ -1,4 +1,4 @@
-- 👋 Hello mate, it's Niladri here.
+- 👋 Hello people, it's Niladri here.
 - 🌱 I’m currently learning Azure and Python.
 
 <!---
