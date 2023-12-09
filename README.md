@@ -1,5 +1,5 @@
-- 👋 Hello people, it's Niladri here.
-- 💼 Presently, I work on SQL.
+- 👋 Hello folks, it's Niladri here.
+- 📚 Presently, I am learning Data Science
 
 <!---
 NiladriMallik/NiladriMallik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
