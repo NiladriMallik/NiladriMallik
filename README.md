@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Niladri Mallik and I am a part time master's student at [Indian Institute of Technology](https://www.iitj.ac.in/) studying Data and Computational Science. I am a Programmer Analyst with 1 year of experience at [Cognizant](https://www.cognizant.com/in/en). I work on SQL in Snowflake, sometimes Python to make my work easier. Besides working, I have an interest in recreational cycling.
+Hello, my name is Niladri Mallik, and I am a Programmer Analyst with 1 year of experience at [Cognizant](https://www.cognizant.com/in/en). I am also a part-time master's student at [Indian Institute of Technology](https://www.iitj.ac.in/) studying Data and Computational Science. I work on SQL in Snowflake and sometimes Python to make my work easier. Besides working, I have an interest in movies and cycling.
 
 
-- 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning DSA.
+- 🔭 Currently working on nothing.
+- 🌱 Currently learning DSA.
 - 😄 Pronouns: Programmer Analyst/Noobmaster
 
 **Languages and Tools:** 
