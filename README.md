@@ -37,5 +37,3 @@ Hello, my name is Niladri Mallik, and I am a Programmer Analyst with 1 year of e
 ![NiladriMallik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiladriMallik&theme=chartreuse-dark&hide_border=true)
 
 ![NiladriMallik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiladriMallik&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
-
-![PROFILE+VIEWS](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&base=0&color=blue)
