@@ -38,6 +38,4 @@ Hello, my name is Niladri Mallik, and I am a Programmer Analyst with 1 year of e
 
 ![NiladriMallik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiladriMallik&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NiladriMallik&theme=onedark)](https://github.com/NiladriMallik/github-profile-trophy)
-
 ![PROFILE+VIEWS](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&base=0&color=blue)
