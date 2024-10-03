@@ -1,6 +1,7 @@
 ### Hi, Niladri Mallik here
-- 💼 Programmer Analyst with 1.8 years of experience at Cognizant.
-- 👨🏻‍💻 work on SQL in Snowflake. I also know Power BI and Python.
+- 💼 Ex Programmer Analyst at Cognizant with 2.9 years of experience.
+- 🔍 Looking for a new job, available to join immediately.
+- 👨🏻‍💻 Experience of SQL and Snowflake, with knowledge of Python, Power BI and AWS.
 - 🎓 Currently learning Deep Learning and Neural Networks.
 
 **Languages and Tools:**
