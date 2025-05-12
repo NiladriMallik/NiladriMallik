@@ -1,8 +1,8 @@
 ### Hi, Niladri Mallik here
 - 💼 2 years of experience in SQL and Snowflake.
-- 💼 Experience in Python Selenium automation.
+- 💼 Experience in Python.
 - 👨🏻‍💻 Have knowledge of Power BI, Machine Learning, Deep Learning and Neural Networks.
-- 🎓 As a part-time master's student, currently working on a Video Analysis project.
+- 🏗 Currently working on a Video Analysis pipeline.
 
 **Languages and Tools:**
 
