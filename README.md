@@ -1,22 +1,20 @@
 ### Hi, Niladri Mallik here
-- 💼 2 years of experience in SQL and Snowflake.
+- 💼 2+ years of experience in SQL and Snowflake.
 - 💼 Experience in Python.
-- 👨🏻‍💻 Have knowledge of Power BI, Machine Learning, Deep Learning and Neural Networks.
+- 👨🏻‍💻 Building foundational skills in Data Engineering and Data Science.
 - 🏗 Currently working on a Video Analysis pipeline.
 
 **Languages and Tools:**
 
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)
-![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=sql-server&logoColor=white)
+![Snowflake](https://custom-icon-badges.demolab.com/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)
+![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
-![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
+![Apache Spark](https://custom-icon-badges.demolab.com/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/NiladriMallik)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/niladrimallik007/)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/NiladriMallik)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/niladrimallik007/)
+
