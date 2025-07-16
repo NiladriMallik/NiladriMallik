@@ -10,6 +10,7 @@
 ![Snowflake](https://custom-icon-badges.demolab.com/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)
 ![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white)
 
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ![Apache Spark](https://custom-icon-badges.demolab.com/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
