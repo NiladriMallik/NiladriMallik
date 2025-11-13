@@ -1,8 +1,7 @@
 ### Hi, Niladri Mallik here
 - 💼 2+ years of experience in SQL and Snowflake.
-- 💼 Experience in Python.
-- 👨🏻‍💻 Building foundational skills in Data Engineering and Data Science.
-- 🏗 Currently working on a Video Analysis pipeline.
+- 💼 ~1 year of experience in Python.
+- 👨🏻‍💻 Building foundational skills in Azure Data Engineering and FastAPI.
 
 **Languages and Tools:**
 
