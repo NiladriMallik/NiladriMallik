@@ -1,7 +1,6 @@
 ### Hi, Niladri Mallik here
-- 💼 2+ years of experience in SQL and Snowflake.
-- 💼 1+ year of experience in Python.
-- 👨🏻‍💻 Building skills in data engineering concepts - PySpark, DBT, Azure services.
+- 💼 3+ years of experience in SQL, Snowflake and Python.
+- 👨🏻‍💻 Building skills in data engineering tools - PySpark, DBT, Azure services.
 
 **Languages and Tools:**
 
